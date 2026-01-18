@@ -1,0 +1,24 @@
+{
+  "basketball": {
+    "clerc-classic": {
+      "2026": {
+        "host": "msd",
+        "champion": null,
+        "runnerUp": null,
+        "mvp": null,
+        "bracket": [],
+        "stats": {}
+      }
+    }
+  },
+  "wrestling": {
+    "willigan-classic": {
+      "2026": {
+        "host": "csd-r",
+        "teamStandings": [],
+        "champions": [],
+        "records": {}
+      }
+    }
+  }
+}

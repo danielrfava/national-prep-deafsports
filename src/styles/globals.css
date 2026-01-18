@@ -1,0 +1,14 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: dark; }
+html, body { height: 100%; background: #121212; color: #FFFFFF; }
+
+a { color: #FF5252; }
+a:focus { outline: 2px solid #FF5252; outline-offset: 2px; }
+
+*::-webkit-scrollbar { width: 10px; height: 10px; }
+*::-webkit-scrollbar-thumb { background: #2A2D30; border-radius: 6px; }
+*::-webkit-scrollbar-track { background: #1A1A1A; }

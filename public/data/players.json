@@ -1,0 +1,13 @@
+{
+  "players": [
+    {
+      "id": "isd-23-p01",
+      "teamId": "isd",
+      "first": "Player",
+      "last": "One",
+      "number": 3,
+      "position": "G",
+      "classYear": "Sr"
+    }
+  ]
+}

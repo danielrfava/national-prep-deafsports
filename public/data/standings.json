@@ -1,0 +1,35 @@
+{
+  "divisions": [
+    {
+      "id": "DI",
+      "name": "Division I",
+      "rows": [
+        {
+          "teamId": "msd",
+          "wins": 12,
+          "losses": 2,
+          "pct": 0.857,
+          "pf": 988,
+          "pa": 842,
+          "rating": null,
+          "sos": null
+        },
+        {
+          "teamId": "tsd",
+          "wins": 10,
+          "losses": 3,
+          "pct": 0.769,
+          "pf": 910,
+          "pa": 800,
+          "rating": null,
+          "sos": null
+        }
+      ]
+    },
+    {
+      "id": "DII",
+      "name": "Division II",
+      "rows": []
+    }
+  ]
+}
